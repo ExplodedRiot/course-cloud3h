@@ -1,9 +1,9 @@
-##TODAY LESSON - WEEK 4 ( SUMMARY )
+## TODAY LESSON - WEEK 4 ( SUMMARY )
 
 Today Lesson is about Virtual Cloud Network
 
 
-#VIRTUAL CLOUD NETWORK (VCN)
+# VIRTUAL CLOUD NETWORK (VCN)
 
 A virtual, private network that you set up in Oracle data centers. It closely resembles a traditional network, with firewall rules and specific types of communication gateways that you can choose to use. A VCN resides in a single Oracle Cloud Infrastructure region and covers one or more CIDR blocks (IPv4 and IPv6, if enabled). See Allowed VCN Size and Address Ranges. The terms virtual cloud network, VCN, and cloud network are used interchangeably in this documentation. For more information, see VCNs and Subnets.
 
